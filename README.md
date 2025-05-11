@@ -6,3 +6,6 @@
 
 # SPIGOT Resource:
 https://www.spigotmc.org/resources/version-loader.124936/
+
+# DISCORD:
+https://discord.gg/vZjpBtv6gr
